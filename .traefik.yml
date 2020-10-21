@@ -1,0 +1,10 @@
+displayName: OPA Plugin
+
+type: middleware
+
+import: github.com/sagarafr/traefik-plugin-opa
+
+summary: '[WIP] Add OPA Support for Authorization management'
+
+testData:
+  path: /tmp
